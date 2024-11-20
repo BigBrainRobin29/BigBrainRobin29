@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BigBrainRobin29
 - 👀 I’m interested in Minecraft and Coding
+- I am an active community member of [@NoRiskClient](https://github.com/NoRiskClient)
 - 🌱 I think I'm going to learn C++ soon
 - Coding Languages: Python, C#, Java, Luau (, Scratch)
 
