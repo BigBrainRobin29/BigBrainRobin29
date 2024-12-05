@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigBrainRobin29
 - 👀 I’m interested in Minecraft and Coding
 - I am an active community member and official bug hunter of [@NoRiskClient](https://github.com/NoRiskClient)
-- 🌱 I think I'm going to learn C++ soon
+- 🌱 I am currently learning C++ and my next goals are rust and svelte for use with the tauri framework
 - Coding Languages: Python, C#, Java, Luau (, Scratch)
 
 <!---
